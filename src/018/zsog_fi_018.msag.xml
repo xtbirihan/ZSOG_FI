@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZSOG_FI_018</ARBGB>
+    <MASTERLANG>T</MASTERLANG>
+   </T100A>
+   <I18N_LANGS>
+    <LANGU>T</LANGU>
+   </I18N_LANGS>
+   <T100T>
+    <T100T>
+     <SPRSL>T</SPRSL>
+     <ARBGB>ZSOG_FI_018</ARBGB>
+    </T100T>
+   </T100T>
+   <T100_TEXTS>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp; &amp; &amp; &amp;</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>Bu işlem için yetkiniz yok!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>Tüm zorunlu alanları doldurun!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>003</MSGNR>
+     <TEXT>Detay bulunamadı!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>004</MSGNR>
+     <TEXT>İşlem kullanıcı tarafından iptal edildi!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>005</MSGNR>
+     <TEXT>&amp; tarihinde &amp; tanıtıcı numarası mevcut!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>006</MSGNR>
+     <TEXT>&amp; kullanıcısı tarafından &amp; tanıtıcı &amp; tarihi locklandı!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>007</MSGNR>
+     <TEXT>Ödenecek tutar negatif olamaz!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>008</MSGNR>
+     <TEXT>Kalan tutardan daha az değer giriniz!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>009</MSGNR>
+     <TEXT>Hesaplama yapmadan onay veremezsiniz!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>010</MSGNR>
+     <TEXT>sadece belge yaratma işlemi yapabilirsiniz!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>011</MSGNR>
+     <TEXT>Kayıt bulunamadı!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>012</MSGNR>
+     <TEXT>Aynı belgeler için tamamlanmamış onay mecvut.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>013</MSGNR>
+     <TEXT>Tamamlanmamış belgeler mevcut. Belge oluşturamazsınız!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>014</MSGNR>
+     <TEXT>Tüm zorunlu alanları doldurun!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>015</MSGNR>
+     <TEXT>&amp; tanıtıcı numarası kullanılmıştır.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>016</MSGNR>
+     <TEXT>Lütfen öneri tutarı alanını doldurunuz.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>017</MSGNR>
+     <TEXT>Öneri tutarından daha az değer giriniz.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>018</MSGNR>
+     <TEXT>Toplam tutar öneri tutarını aşmaktadır.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>019</MSGNR>
+     <TEXT>Kısmi ödeme bulunamadı!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>020</MSGNR>
+     <TEXT>&amp; Öneri tutarı &amp; kadar aşıldı.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>021</MSGNR>
+     <TEXT>Dosya FTP servera trasfer edildi!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>022</MSGNR>
+     <TEXT>&amp; belgesinin ters kaydı alınamadı!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>023</MSGNR>
+     <TEXT>Ters kayıt alındı! Ters kayıt belge: &amp;</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>024</MSGNR>
+     <TEXT>&amp; öneri tutarı &amp; dip toplamdan büyük olamaz!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>025</MSGNR>
+     <TEXT>Malumat &amp; no ile kaydedildi!</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>026</MSGNR>
+     <TEXT>Wrong DC/Store Selection &amp;</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>027</MSGNR>
+     <TEXT>ARDI Vendor  or Official vendor need to provide</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>028</MSGNR>
+     <TEXT>Wrong &amp; vendor for Purchase Organization</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>029</MSGNR>
+     <TEXT>Invalid ARDI vendor &amp;</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>030</MSGNR>
+     <TEXT>Invalid official vendor &amp;</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>031</MSGNR>
+     <TEXT>Ödeme talebi &amp; oluşturuldu.</TEXT>
+    </item>
+    <item>
+     <SPRSL>T</SPRSL>
+     <MSGNR>032</MSGNR>
+     <TEXT>Satır seçiniz!</TEXT>
+    </item>
+   </T100_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
